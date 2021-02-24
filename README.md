@@ -16,4 +16,4 @@ Sou um Desenvolvedor PHP :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, aventuras e desafios.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](Linkedin&logoColor=white&link=https://www.linkedin.com/in/c%C3%ADcero-gon%C3%A7alves-neto-984782118/)](https://www.linkedin.com/in/c%C3%ADcero-gon%C3%A7alves-neto-984782118/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrow3104584cicero@gmail.com)](mailto:arrow3104584cicero@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arrow3104584cicero@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrow3104584cicero@gmail.com)](mailto:arrow3104584cicero@gmail.com)
